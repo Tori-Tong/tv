@@ -9,13 +9,14 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "⏮️┃低端┃影视",
+      "name": "低端",
       "type": 3,
       "api": "csp_Ddrk",
       "click": "ddys.tv;#vjsp > button",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230627.jar;md5;7E3728D966D4EF703D3A250D5267B99B"
     },
     {
       "key": "csp_Nbys",
@@ -24,7 +25,8 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230627.jar;md5;7E3728D966D4EF703D3A250D5267B99B"
     },
     {
       "key": "csp_trj",
@@ -33,6 +35,35 @@
       "api": "csp_Tangrenjie",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 1,
+      "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230627.jar;md5;7E3728D966D4EF703D3A250D5267B99B"
+    },
+    {"key":"海外看资源",
+     "name":"海外看",
+     "type":0,
+     "api":"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":0},
+    {
+      "key": "csp_WoGG",
+      "name": "4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+    },
+    {
+      "key": "csp_Czsapp",
+      "name": "厂长",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://czzy.art/",
       "filterable": 1
     }
   ],
