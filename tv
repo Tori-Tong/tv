@@ -1,6 +1,4 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;53c068a1f4c2de11d1160e4dbd0ddb0a",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
       "key": "js豆瓣",
@@ -468,5 +466,6 @@
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
-  ]
+  ],
+  "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230627.jar;md5;7E3728D966D4EF703D3A250D5267B99B"
 }
