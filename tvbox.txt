@@ -238,5 +238,5 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-"spider":"clan://TVbox/jar/custom_spider.jar"
+"spider":"https://github.com/Tori-Tong/tv/blob/main/custom_spider.jar"
 }
