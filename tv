@@ -5,7 +5,8 @@
       "name": "豆瓣",
       "type": 3,
       "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-      "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js"
+      "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js",
+      "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230627.jar;md5;7E3728D966D4EF703D3A250D5267B99B"
     },
     {
       "key": "csp_DiDuan",
@@ -38,13 +39,15 @@
       "filterable": 1,
       "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230627.jar;md5;7E3728D966D4EF703D3A250D5267B99B"
     },
-    {"key":"海外看资源",
+    {
+     "key":"海外看资源",
      "name":"海外看",
      "type":0,
      "api":"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",
      "searchable":1,
      "quickSearch":1,
-     "filterable":0},
+     "filterable":0
+    }，
     {
       "key": "csp_WoGG",
       "name": "4K",
@@ -64,7 +67,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "https://czzy.art/",
-      "filterable": 1
+      "filterable":1
     }
   ],
   "lives": [
@@ -467,6 +470,5 @@
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
-  ],
-  "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php"
+  ]
 }
