@@ -25,7 +25,8 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;53c068a1f4c2de11d1160e4dbd0ddb0a",
     },
     {
       "key": "csp_trj",
