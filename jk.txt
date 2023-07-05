@@ -1,11 +1,10 @@
 {
 "sites":[
-{"key": "js豆瓣","name": "┃豆瓣榜单┃","type": 3,"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js
-"},
-{"key": "csp_酷影","name": "┃酷影需加载画质优","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://cms.wbsys.top:9835/api.php/app/"},
+{"key": "js豆瓣","name": "豆瓣榜单","type": 3,"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js"},
+{"key": "csp_酷影","name": "酷影需加载画质优","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://cms.wbsys.top:9835/api.php/app/"},
 {"key":"海外看资源","name":"海外看","type":0,"api":"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {key:'csp_trj',name:'唐人街有广告秒开',type:3,api:'csp_Tangrenjie',searchable:1,quickSearch:1,filterable:1,"jar":"clan://TVbox/jar/xo1.jar"},
-{"key": "csp_YQKAPP","name": "┃一起画质稍低秒开","type": 3,"api": "csp_YQKAPP","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-aws.11ty.top"},
+{"key": "csp_YQKAPP","name": "一起画质稍低秒开","type": 3,"api": "csp_YQKAPP","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-aws.11ty.top"},
 {"key":"csp_DiDuan" ,"name":"低端绝对优先","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0}
 ],
 
