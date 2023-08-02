@@ -13,18 +13,15 @@
       "filterable": 0
     },
     {
-      "key": "酷酷",
-      "name": "4K酷酷",
+      "key": "csp_YQKAPP",
+      "name": "一起",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_YQKAPP",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://ys.realdou.cn/api.php/app/",
-      "categories": [
-        "4K电影",
-        "4K电视剧"
-      ]
+      "changeable": 1,
+      "ext": "https://api-aws.11ty.top"
     },
     {
       "key": "csp_Czsapp",
