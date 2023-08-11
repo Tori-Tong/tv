@@ -1,16 +1,45 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;53c068a1f4c2de11d1160e4dbd0ddb0a",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5b2f704da69aa9910a5246018d7baa6d",
+  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
   "sites": [
     {
       "key": "js豆豆",
       "name": "豆瓣",
       "type": 3,
-      "api": "https://pan.shangui.cc/f/x7pBUZ/drpy.min.js",
-      "ext": "https://pan.shangui.cc/f/bA8Qc1/drpy.js",
+      "api": "http://xhww.fun:63/js/drpy1.min.js",
+      "ext": "http://smallmi.xiaohewanwan.love:63/drpy.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "玩偶-需阿里云盘",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
+    },
+    {
+      "key": "csp_DiDuan",
+      "name": "低端",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Lib",
+      "name": "利播",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.fun/"
     },
     {
       "key": "csp_YQKAPP",
@@ -22,25 +51,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://api-aws.11ty.top"
-    },
-    {
-      "key": "csp_Czsapp",
-      "name": "厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_DiDuan",
-      "name": "低端",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "csp_Nbys",
@@ -71,11 +81,6 @@
       "name": "聚合0",
       "type": 3,
       "url": "Web"
-    },
-    {
-      "name": "【影视范】提供",
-      "type": 1,
-      "url": "http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="
     },
     {
       "name": "刚佬",
@@ -349,7 +354,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "http://hz752.love:63/txt/ysbox.txt",
+      "url": "https://ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
