@@ -1,13 +1,13 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5b2f704da69aa9910a5246018d7baa6d",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c548a4b3ea3f603ca651b802c52816a8",
   "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
   "sites": [
     {
       "key": "js豆豆",
       "name": "豆瓣",
       "type": 3,
-      "api": "http://xhww.fun:63/js/drpy1.min.js",
-      "ext": "http://smallmi.xiaohewanwan.love:63/drpy.js",
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/douban.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
