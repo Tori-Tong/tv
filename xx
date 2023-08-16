@@ -42,15 +42,13 @@
       "ext": "https://www.libvio.fun/"
     },
     {
-      "key": "csp_YQKAPP",
-      "name": "一起",
+      "key": "Vofl",
+      "name": "VOF",
       "type": 3,
-      "api": "csp_YQKAPP",
-      "playerType": 2,
+      "api": "csp_Voflix",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://api-aws.11ty.top"
+      "changeable": 1
     },
     {
       "key": "csp_Nbys",
