@@ -1,13 +1,12 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c548a4b3ea3f603ca651b802c52816a8",
-  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "js豆豆",
+      "key": "豆豆",
       "name": "豆瓣",
       "type": 3,
-      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/douban.js",
+      "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -39,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.libvio.fun/"
+      "ext": "https://www.libvio.pro/"
     },
     {
       "key": "哈喽",
@@ -91,68 +90,13 @@
       "url": "Web"
     },
     {
-      "name": "刚佬",
+      "name": "神秘的哥哥们",
       "type": 1,
-      "url": "http://json.g9.pub:66/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "imgo",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
+      "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
     },
     {
-      "name": "全部",
-      "type": 0,
-      "url": "https://yun.ckmov.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "imgo",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "来自",
-      "type": 0,
+      "name": "解析",
+      "type": 1,
       "url": "https://jx.zhanlangbu.com/?url=",
       "ext": {
         "flag": [
@@ -179,32 +123,19 @@
       }
     },
     {
+      "name": "全部",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+    },
+    {
+      "name": "来自",
+      "type": 0,
+      "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="
+    },
+    {
       "name": "网络",
       "type": 1,
-      "url": "https://api.cygc.xyz/analysis/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "芒果",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
+      "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
     },
     {
       "name": "大家",
@@ -242,7 +173,7 @@
       "url": "https://jx.ccabc.cc/xc/?key=5567332json&url="
     },
     {
-      "name": "坏了",
+      "name": "坏了我",
       "type": 0,
       "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
       "ext": {
@@ -272,53 +203,14 @@
       }
     },
     {
-      "name": "我再找来",
+      "name": "再找来",
       "type": 1,
-      "url": "https://b.umkan.cc/API.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ]
-      }
+      "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
     }
   ],
   "rules": [
     {
-      "name": "量子",
+      "name": "lz",
       "hosts": [
         "vip.lz",
         "hd.lz"
@@ -329,7 +221,7 @@
       ]
     },
     {
-      "name": "非凡",
+      "name": "ff",
       "hosts": [
         "vip.ffzy",
         "hd.ffzy"
@@ -340,7 +232,18 @@
       ]
     },
     {
-      "name": "火山",
+      "name": "bf",
+      "hosts": [
+        "bfzy",
+        "s5.bfzycdn"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "hs",
       "hosts": [
         "huoshan.com"
       ],
@@ -349,12 +252,23 @@
       ]
     },
     {
-      "name": "抖音",
+      "name": "dy",
       "hosts": [
         "douyin.com"
       ],
       "regex": [
         "is_play_url="
+      ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
       ]
     }
   ],
@@ -362,8 +276,9 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
       "playerType": 1,
+      "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
