@@ -22,7 +22,7 @@
     },
     {
       "key": "Czsapp",
-      "name": "厂长",
+      "name": "首选 1080p 厂长",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -52,7 +52,7 @@
     },
     {
       "key": "csp_Nbys",
-      "name": "泥巴",
+      "name": "其次 泥巴",
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
