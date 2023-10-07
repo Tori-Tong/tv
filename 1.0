@@ -1,5 +1,5 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -19,7 +19,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
       "key": "csp_DiDuan",
@@ -38,7 +38,8 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "https://www.cz01.pro/"
     },
     {
       "key": "哈喽",
