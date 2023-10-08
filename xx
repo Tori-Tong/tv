@@ -22,7 +22,7 @@
     },
     {
       "key": "Czsapp",
-      "name": "首选 1080p 厂长",
+      "name": "厂长1080p三秒开",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -30,6 +30,35 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.cz01.pro/"
+    },
+    {
+      "key": "快帆",
+      "name": "快帆1080p一秒开",
+      "type": 1,
+      "api": "https://api.kuaifan.tv/api.php/provide/vod",
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "台湾剧",
+        "韩国剧",
+        "日本剧",
+        "欧美剧",
+        "动作片",
+        "动画片",
+        "短片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "古装片",
+        "历史片",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "国产动漫",
+        "欧美动漫",
+        "日本动漫"
+      ],
+      "spider": "http://我不是.肥猫.love:63/Jar/pandaQ230928.jar;md5;02c40490ea14c433b66fcc0ce2f2ed94"
     },
     {
       "key": "哈喽",
