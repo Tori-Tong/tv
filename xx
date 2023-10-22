@@ -6,7 +6,6 @@
       "key": "豆豆",
       "name": "豆瓣",
       "type": 3,
-      "type": 3,
       "api": "https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
     },
@@ -28,7 +27,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.cz01.pro/"
+      "ext": "https://www.czzy88.com/"
     },
     {
       "key": "drpy_js_多瑙影视",
