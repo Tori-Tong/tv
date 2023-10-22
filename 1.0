@@ -1,25 +1,13 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7",
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "豆豆",
-      "name": "豆瓣",
+      "key": "drpy_js_豆瓣",
+      "name": "豆瓣 | 热播[js]",
       "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "玩偶-需阿里云盘",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
     },
     {
       "key": "csp_DiDuan",
@@ -31,17 +19,8 @@
       "changeable": 1
     },
     {
-      "key": "drpy_js_多瑙影视",
-      "name": "1080p 秒开 多瑙",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/多瑙影视.js",
-      "playerType": "2",
-      "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-    },
-    {
       "key": "Czsapp",
-      "name": "厂长",
+      "name": "厂长1080p三秒开",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -51,27 +30,17 @@
       "ext": "https://www.cz01.pro/"
     },
     {
-      "key": "哈喽",
-      "name": "哈喽",
+      "key": "drpy_js_多瑙影视",
+      "name": "多瑙1080p秒开",
       "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v1/"
-    },
-    {
-      "key": "Vofl",
-      "name": "VOF",
-      "type": 3,
-      "api": "csp_Voflix",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/多瑙影视.js",
+      "playerType": "2",
+      "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
       "key": "csp_Nbys",
-      "name": "泥巴",
+      "name": "其次 泥巴",
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
