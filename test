@@ -5,7 +5,7 @@
       "key": "drpy_js_豆瓣",
       "name": "豆瓣",
       "type": 3,
-      "api": "https://github.com/Tori-Tong/tv/raw/main/libs/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/libs/drpy2.min.js",
       "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/drpy.js"
     },
     {
@@ -21,7 +21,7 @@
       "key": "drpy_js_多瑙影视",
       "name": "多瑙1080p秒开",
       "type": 3,
-      "api": "https://github.com/Tori-Tong/tv/raw/main/libs/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/libs/drpy2.min.js",
       "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/多瑙影视.js",
       "playerType": "2",
       "spider": "https://github.com/Tori-Tong/tv/raw/main/jar/custom_spider(1).jar"
