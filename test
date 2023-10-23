@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "豆瓣 | 热播[js]",
+      "name": "豆瓣",
       "type": 3,
       "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/drpy2.min.js",
       "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/drpy.js"
@@ -19,15 +19,6 @@
       "jar": "https://github.com/Tori-Tong/tv/raw/main/jar/uyv0t678c488189af47bb91dc108484d17431.jar"
     },
     {
-      "key": "厂长资源",
-      "name": "厂长┃影视",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/changzhang.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "drpy_js_多瑙影视",
       "name": "多瑙1080p秒开",
       "type": 3,
@@ -37,7 +28,7 @@
     },
     {
       "key": "csp_Nbys",
-      "name": "🛫泥巴┃海外",
+      "name": "泥巴",
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
@@ -46,7 +37,7 @@
     },
     {
       "key": "星星",
-      "name": "🛫星星┃海外",
+      "name": "星星",
       "type": 3,
       "api": "csp_Star",
       "searchable": 1,
@@ -55,7 +46,7 @@
     },
     {
       "key": "唐人街影院",
-      "name": "🛫唐人街┃海外",
+      "name": "唐人街偶有广告",
       "type": 3,
       "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
       "searchable": 1,
