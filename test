@@ -1,4 +1,5 @@
 {
+  "spider": "https://github.com/Tori-Tong/tv/raw/main/jar/uyv0t678c488189af47bb91dc108484d17431.jar;md5;60a9856a6deb7dcff27f3056626bbb5a"
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -14,8 +15,7 @@
       "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://github.com/Tori-Tong/tv/raw/main/jar/uyv0t678c488189af47bb91dc108484d17431.jar;md5;60a9856a6deb7dcff27f3056626bbb5a"
+      "changeable": 1
     },
     {
       "key": "drpy_js_多瑙影视",
