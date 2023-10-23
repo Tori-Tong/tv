@@ -19,15 +19,12 @@
       "changeable": 1
     },
     {
-      "key": "Czsapp",
-      "name": "厂长1080p三秒开",
+      "key": "厂长资源",
+      "name": "厂长┃影视",
       "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
+      "api": "https://tvbox.cainisi.cf/json/czzy_open.js",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czz9.com/"
+      "changeable": 1
     },
     {
       "key": "drpy_js_多瑙影视",
