@@ -40,21 +40,30 @@
     },
     {
       "key": "csp_Nbys",
-      "name": "其次 泥巴",
+      "name": "泥巴",
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://github.com/Tori-Tong/tv/raw/main/jar/fm1004.jar"
     },
     {
-      "key": "csp_trj",
-      "name": "唐人街-有18禁广告",
+      "key": "星星",
+      "name": "星星",
       "type": 3,
-      "api": "csp_Tangrenjie",
+      "api": "csp_Star",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://github.com/Tori-Tong/tv/raw/main/jar/fm1004.jar"
+    },
+    {
+      "key": "唐人街影院",
+      "name": "唐人街偶有广告",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/chinatown.js"
     }
   ],
   "parses": [
