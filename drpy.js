@@ -1,6 +1,6 @@
 var rule = {
     title:'drpy',
-    host:'https://frodo.douban.com',
+    host:'https://www.douban.com',
     apidoc:'https://www.doubanapi.com',
     homeUrl:'',
     searchUrl:'',
