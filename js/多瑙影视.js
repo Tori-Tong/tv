@@ -1,5 +1,5 @@
 var rule = {
-    title:'duonao',
+    title:'多瑙影视',
     host:'https://www.duonaovod.com',
     // url:'/index.php/vod/show/id/fyclass/page/fypage.html',
     url:'/index.php/vod/show/id/fyfilter.html',
