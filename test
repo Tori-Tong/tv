@@ -45,7 +45,7 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/Tori-Tong/tv/main/jar/fm1004.jar"
+      "jar": "https://github.com/Tori-Tong/tv/raw/main/jar/fm1004.jar"
     },
     {
       "key": "星星",
@@ -54,7 +54,7 @@
       "api": "csp_Star",
       "searchable": 1,
       "changeable": 1,
-      "jar": "https://raw.githubusercontent.com/Tori-Tong/tv/main/jar/fm1004.jar"
+      "jar": "https://github.com/Tori-Tong/tv/raw/main/jar/fm1004.jar"
     },
     {
       "key": "唐人街影院",
