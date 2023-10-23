@@ -1,13 +1,11 @@
 {
-  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "豆豆",
+      "key": "drpy_js_豆瓣",
       "name": "豆瓣",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"
+      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/douban.js"
     },
     {
       "key": "csp_DiDuan",
@@ -16,45 +14,43 @@
       "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Czsapp",
-      "name": "厂长1080p三秒开",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy88.com/"
+      "jar": "https://github.com/Tori-Tong/tv/raw/main/jar/uyv0t678c488189af47bb91dc108484d17431.jar;md5;60a9856a6deb7dcff27f3056626bbb5a"
     },
     {
       "key": "drpy_js_多瑙影视",
       "name": "多瑙1080p秒开",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/多瑙影视.js",
-      "playerType": "2",
-      "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/duonao.js",
+      "playerType": "2"
     },
     {
       "key": "csp_Nbys",
-      "name": "其次 泥巴",
+      "name": "泥巴",
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://github.com/Tori-Tong/tv/raw/main/jar/fm1004.jar"
     },
     {
-      "key": "csp_trj",
-      "name": "唐人街-有18禁广告",
+      "key": "星星",
+      "name": "星星",
       "type": 3,
-      "api": "csp_Tangrenjie",
+      "api": "csp_Star",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://github.com/Tori-Tong/tv/raw/main/jar/fm1004.jar"
+    },
+    {
+      "key": "唐人街影院",
+      "name": "唐人街偶有广告",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/chinatown.js"
     }
   ],
   "parses": [
@@ -69,7 +65,7 @@
       "url": "Web"
     },
     {
-      "name": "神秘的哥哥们",
+      "name": "OMO",
       "type": 1,
       "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
     },
