@@ -55,7 +55,60 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    }
+    },
+    {
+      "key": "csp_Nbys",
+      "name": "🛫泥巴┃海外",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://tvbox.cainisi.cf/jar/fm1004.jar;md5;badfd75846df45e8cf06b53654312ccf"
+    },
+    {
+      "key": "星星",
+      "name": "🛫星星┃海外",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "    {
+      "key": "csp_Nbys",
+      "name": "🛫泥巴┃海外",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://tvbox.cainisi.cf/jar/fm1004.jar;md5;badfd75846df45e8cf06b53654312ccf"
+    },
+    {
+      "key": "星星",
+      "name": "🛫星星┃海外",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://tvbox.cainisi.cf/jar/fm1004.jar;md5;badfd75846df45e8cf06b53654312ccf"
+    },
+    {
+      "key": "唐人街影院",
+      "name": "🛫唐人街┃海外",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://drpy.cainisi.cf/js/唐人街影视[飞].js"
+    },fm1004.jar;md5;badfd75846df45e8cf06b53654312ccf"
+    },
+    {
+      "key": "唐人街影院",
+      "name": "🛫唐人街┃海外",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://drpy.cainisi.cf/js/唐人街影视[飞].js"
+    },
   ],
   "parses": [
     {
