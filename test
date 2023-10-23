@@ -22,7 +22,7 @@
       "name": "多瑙1080p秒开",
       "type": 3,
       "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/多瑙影视.js",
+      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/%E5%A4%9A%E7%91%99%E5%BD%B1%E8%A7%86.js",
       "playerType": "2",
       "spider": "https://github.com/Tori-Tong/tv/raw/main/jar/custom_spider(1).jar"
     },
