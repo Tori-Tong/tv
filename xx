@@ -14,7 +14,7 @@
     },
     {
       "key": "繁星",
-      "name": "繁星|线路2高清无广",
+      "name": "繁星高清无广",
       "type": 3,
       "api": "csp_AppMao",
       "playerType": 2,
@@ -53,7 +53,7 @@
     },
     {
       "key": "爱看影视",
-      "name": "爱看 高清",
+      "name": "爱看高清",
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
