@@ -1,6 +1,6 @@
 var rule = {
     title:'多瑙影视',
-    host:'https://www.dnvods.com',
+    host:'https://www.duonaovod.com',
     // url:'/index.php/vod/show/id/fyclass/page/fypage.html',
     url:'/index.php/vod/show/id/fyfilter.html',
     filterable:1,//是否启用分类筛选,
