@@ -34,13 +34,46 @@
       "changeable": 1
     },
     {
-      "key": "drpy_js_多瑙影视",
-      "name": "多瑙1080p秒开",
+      "key": "drpy_js_独播库[飞]",
+      "name": "✈独播库",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/多瑙影视.js",
-      "playerType": "2",
-      "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/独播库[飞].js"
+    },
+    {
+      "key": "drpy_js_起飞影院",
+      "name": "🛩︎起飞影院",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/起飞影院.js"
+    },
+    {
+      "key": "drpy_js_KUBO影视[飞]",
+      "name": "✈KUBO影视",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/KUBO影视[飞].js"
+    },
+    {
+      "key": "drpy_js_欧乐影院[飞]",
+      "name": "✈欧乐影院",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/欧乐影院[飞].js"
+    },
+    {
+      "key": "drpy_js_if101[飞]",
+      "name": "✈if101",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/if101[飞].js"
+    },
+    {
+      "key": "drpy_js_小宝影院[飞]",
+      "name": "✈小宝影院",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/小宝影院[飞].js"
     },
     {
       "key": "csp_Nbys",
@@ -104,7 +137,7 @@
       "spider": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
     },
     {
-      "key": "一起看 ",
+      "key": "一起看",
       "name": "一起看有广",
       "type": 3,
       "api": "csp_YQKan",
