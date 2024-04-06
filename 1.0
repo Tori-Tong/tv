@@ -1,26 +1,27 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708249660012/fan.txt;md5;87d5916b7bb5c8acacac5490e802828e",
-  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
+  "spider": "http://happy.xn--z7x900a.live/jar/PandaQ240327.jar;md5;d1f7fe48d8dbb45338d393d55086116f",
+  "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
       "name": "🐼┃公众号┃肥猫宝贝",
       "type": 3,
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "http://dt.xn--yety82d.love/js/豆瓣推荐.js"
+      "api": "csp_Douban",
+      "searchable": 0
     },
     {
-      "key": "DiDuan",
-      "name": "低端",
+      "key": "比特",
+      "name": "✌️️┃比特┃影视",
       "type": 3,
-      "api": "csp_Ddrk",
+      "api": "csp_Bttwo"
+    },
+    {
+      "key": "低端",
+      "name": "🛣┃低端┃影视",
+      "type": 3,
       "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/ddys.js"
     },
     {
       "key": "drpy_js_独播库[飞]",
@@ -51,13 +52,6 @@
       "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/欧乐影院[飞].js"
     },
     {
-      "key": "drpy_js_if101[飞]",
-      "name": "✈if101",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/if101[飞].js"
-    },
-    {
       "key": "drpy_js_小宝影院[飞]",
       "name": "✈小宝影院",
       "type": 3,
@@ -75,11 +69,11 @@
     },
     {
       "key": "爱看影视",
-      "name": "爱看高清",
+      "name": "❤┃爱看┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/爱看.js"
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/爱看.js"
     },
     {
       "key": "索尼资源",
@@ -124,36 +118,23 @@
       "searchable": 1,
       "quickSearch": 1,
       "spider": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
-    },
-    {
-      "key": "一起看",
-      "name": "一起看有广",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "唐人街影院",
-      "name": "唐人街偶有广告",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/chinatown.js"
     }
   ],
   "parses": [
     {
-      "name": "聚合",
+      "name": "Json聚合",
       "type": 3,
       "url": "Demo"
     },
     {
-      "name": "神秘的哥哥们",
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "公众号：肥猫宝贝",
       "type": 1,
-      "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
+      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
       "ext": {
         "flag": [
           "qq",
@@ -186,9 +167,9 @@
       }
     },
     {
-      "name": "免费分享",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
+      "name": "肥猫最可爱",
+      "type": 1,
+      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
       "ext": {
         "flag": [
           "qq",
@@ -198,140 +179,139 @@
           "奇艺",
           "youku",
           "优酷",
-          "mgtv",
-          "芒果",
-          "imgo",
+          "tucheng",
+          "sohu",
+          "搜狐",
           "letv",
           "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
           "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
       }
     }
   ],
-  "doh": [
+  "lives": [
     {
-      "name": "Google",
-      "url": "https://dns.google/dns-query",
-      "ips": [
-        "8.8.4.4",
-        "8.8.8.8"
-      ]
-    },
-    {
-      "name": "Cloudflare",
-      "url": "https://cloudflare-dns.com/dns-query",
-      "ips": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
-        "2606:4700:4700::1001"
-      ]
-    },
-    {
-      "name": "AdGuard",
-      "url": "https://dns.adguard.com/dns-query",
-      "ips": [
-        "94.140.14.140",
-        "94.140.14.141"
-      ]
-    },
-    {
-      "name": "DNSWatch",
-      "url": "https://resolver2.dns.watch/dns-query",
-      "ips": [
-        "84.200.69.80",
-        "84.200.70.40"
-      ]
-    },
-    {
-      "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer",
-      "ips": [
-        "9.9.9.9",
-        "149.112.112.112"
-      ]
+      "name": "live",
+      "type": 0,
+      "playerType": 1,
+      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "rules": [
     {
-      "name": "hwk",
+      "name": "♻️非凡",
       "hosts": [
-        "haiwaikan"
+        "ffzy"
       ],
       "regex": [
-        "10.0099",
-        "10.3333",
-        "16.0599",
-        "8.1748",
-        "10.85"
+        "25.0666",
+        "25.08",
+        "20.52"
       ]
     },
     {
-      "name": "yqk",
+      "name": "♻️量子",
       "hosts": [
-        "yqk88"
+        "lz"
+      ],
+      "regex": [
+        "18.5333",
+        "19.52"
+      ]
+    },
+    {
+      "name": "♻️乐视",
+      "hosts": [
+        "leshiyun"
+      ],
+      "regex": [
+        "15.92"
+      ]
+    },
+    {
+      "name": "♻️优质",
+      "hosts": [
+        "yzzy"
+      ],
+      "regex": [
+        "19.52",
+        "19.13"
+      ]
+    },
+    {
+      "name": "♻️YQK",
+      "hosts": [
+        "ydd"
       ],
       "regex": [
         "18.4",
-        "15.1666"
+        "15.1666",
+        "16.5333"
       ]
     },
     {
-      "name": "sn",
+      "name": "♻️快看",
+      "hosts": [
+        "kuaikan"
+      ],
+      "regex": [
+        "20.123",
+        "20.167"
+      ]
+    },
+    {
+      "name": "♻️索尼",
       "hosts": [
         "suonizy"
       ],
       "regex": [
+        "16.3333",
         "15.1666",
-        "15.2666"
+        "15.2666",
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+"
       ]
     },
     {
-      "name": "bf",
+      "name": "♻️暴风",
       "hosts": [
-        "bfzy"
+        "bf"
       ],
       "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+        "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
       ]
     },
     {
-      "name": "xx",
+      "name": "♻️蜗牛",
       "hosts": [
-        "aws.ulivetv.net"
+        "vip.123pan.cn",
+        "rescdn.wuxivlog.cn"
       ],
       "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+        "#EXT-X-DISCONTINUITY[\\s\\S]+?#EXT-X-DISCONTINUITY"
       ]
     },
     {
-      "name": "lz",
+      "name": "农民嗅探",
       "hosts": [
-        "vip.lz",
-        "hd.lz",
-        "v.cdnlz1",
-        "v.cdnlz"
+        "toutiaovod.com"
       ],
       "regex": [
-        "18.5333"
-      ]
-    },
-    {
-      "name": "非凡",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "25.0666"
+        "video/tos/cn"
       ]
     },
     {
@@ -353,15 +333,6 @@
       ]
     },
     {
-      "name": "nm",
-      "hosts": [
-        "toutiaovod.com"
-      ],
-      "regex": [
-        "video/tos/cn"
-      ]
-    },
-    {
       "name": "cl",
       "hosts": [
         "magnet"
@@ -371,26 +342,6 @@
         "直 播",
         "更 新"
       ]
-    }
-  ],
-  "lives": [
-    {
-      "name": "SAO0",
-      "type": 0,
-      "url": "https://xhdwc.tk/tvlive.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "IPV6",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
 }
