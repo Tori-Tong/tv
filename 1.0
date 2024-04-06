@@ -24,27 +24,6 @@
       "ext": "http://dt.xn--yety82d.love/js/ddys.js"
     },
     {
-      "key": "drpy_js_独播库[飞]",
-      "name": "✈独播库",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/独播库[飞].js"
-    },
-    {
-      "key": "drpy_js_起飞影院",
-      "name": "🛩︎起飞影院",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/起飞影院.js"
-    },
-    {
-      "key": "drpy_js_KUBO影视[飞]",
-      "name": "✈KUBO影视",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/KUBO影视[飞].js"
-    },
-    {
       "key": "drpy_js_欧乐影院[飞]",
       "name": "✈欧乐影院",
       "type": 3,
@@ -66,14 +45,6 @@
       "searchable": 1,
       "changeable": 1,
       "jar": "https://github.com/Tori-Tong/tv/raw/main/jar/fm1004.jar"
-    },
-    {
-      "key": "爱看影视",
-      "name": "❤┃爱看┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/爱看.js"
     },
     {
       "key": "索尼资源",
