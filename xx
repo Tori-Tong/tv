@@ -56,6 +56,13 @@
       "jar": "https://github.com/Tori-Tong/tv/raw/main/jar/fm1004.jar"
     },
     {
+      "key": "外剧影视",
+      "name": "🙋┃外剧┃影视",
+      "type": 3,
+      "playerType": "1",
+      "api": "csp_KmeiJu"
+    },
+    {
       "key": "哔嘀",
       "name": "️️💦┃哔嘀┃影视",
       "type": 3,
