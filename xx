@@ -32,13 +32,6 @@
       "ext": "http://dt.xn--yety82d.love/js/ddys.js"
     },
     {
-      "key": "drpy_js_欧乐影院[飞]",
-      "name": "✈欧乐影院",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/欧乐影院[飞].js"
-    },
-    {
       "key": "drpy_js_小宝影院[飞]",
       "name": "✈小宝影院",
       "type": 3,
