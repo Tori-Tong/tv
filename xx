@@ -88,7 +88,8 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./lib/duboku.json$$$proxy"
+      "ext": "./lib/duboku.json$$$proxy",
+      "spider": "https://gitlab.com/duomv/duo/-/raw/main/pg.jar"
     }
   ],
   "doh": [
