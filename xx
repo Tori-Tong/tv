@@ -68,6 +68,17 @@
       "changeable": 1
     },
     {
+      "key": "云星1080",
+      "name": "☁️云星1080┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "spider": "./云星日记/jars/公众号云星日记0619.jar",
+      "ext": "http://cms.4u4.cn/api.php/app/"
+    },
+    {
       "key": "Bili",
       "name": "🅱哔哔┃合集",
       "type": 3,
