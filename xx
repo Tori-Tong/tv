@@ -12,15 +12,6 @@
       "filterable": 0
     },
     {
-      "key":"海外看资源",
-      "name":"海外看 高清无广",
-      "type":0,
-      "api":"https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0
-    },
-    {
       "key": "低端",
       "name": "⏮️低端┃外剧",
       "type": 3,
@@ -36,15 +27,6 @@
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/小宝影院[飞].js"
-    },
-    {
-      "key": "Nbys",
-      "name": "🛫泥巴┃飞",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "视觉",
@@ -88,6 +70,20 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "神仙影视",
+      "name": "影视 | 神仙自营",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "spider": "./sx.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
+      "ext": {
+        "分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
+      }
     },
     {
       "key": "Bili",
@@ -184,6 +180,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "drpy_js_华乐影院",
+      "name": "起飞 | 华乐影院[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "spider": "./jar/pg.jar;md5;2d720579dec380af301010354f50408c",
+      "ext": "./js/华乐影院[飞].js"
     },
     {
       "key": "獨播",
