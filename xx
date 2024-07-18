@@ -61,15 +61,22 @@
       "ext": "http://cms.4u4.cn/api.php/app/"
     },
     {
-      "key": "南瓜",
-      "name": "🎃南瓜┃多线",
+      "key": "nangua",
+      "name": "🎃┃南瓜┃影视",
       "type": 3,
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 2,
+      "playerType": "2",
+      "api": "http://js.xn--z7x900a.com/js/ng_open.js",
+      "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1",
+    },
+    {
+      "key": "csp_SC1080",
+      "name": "🏰┃圣城┃影视",
+      "type": 3,
+      "api": "csp_SC1080",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1",
     },
     {
       "key": "Bili",
