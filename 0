@@ -34,7 +34,7 @@
       "key": "drpy_js_小宝影院[飞]",
       "name": "✈小宝影院",
       "type": 3,
-      "click": "www.xiaoxintv.app;#vjsp > button",
+      "click": "xiaoxintv.app;#vjsp > button",
       "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
       "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/小宝影院[飞].js"
     },
