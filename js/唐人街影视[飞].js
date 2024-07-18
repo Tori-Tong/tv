@@ -1,6 +1,6 @@
 var rule={
     title:'唐人街影视[飞]',
-    host:'https://www.tangrenjie.tv',
+    host:'https://www.tangrenjie.one/',
     // url:'/vod/show/id/fyclass/page/fypage.html',
     url:'/vod/show/id/fyfilter.html',
     filterable:1,//是否启用分类筛选,
