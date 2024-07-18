@@ -49,6 +49,15 @@
       "filterable":0
     },
     {
+      "key":"暴风资源",
+      "name":"暴风资源",
+      "type":3,
+      "api":"https://bfzyapi.com/api.php/provide/vod/at/xml?ac=list",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
+    },
+    {
       "key": "酷看",
       "name": "💡酷看┃秒播",
       "type": 3,
