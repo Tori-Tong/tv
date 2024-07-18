@@ -25,8 +25,8 @@
       "key": "drpy_js_小宝影院[飞]",
       "name": "✈小宝影院",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/小宝影院[飞].js"
+      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/小宝影院[飞].js"
     },
     {
       "key": "视觉",
@@ -144,22 +144,39 @@
       ]
     },
     {
-      "key": "看看影视",
-      "name": "看看┃影视",
+      "key": "drpy_js_555影视[飞]",
+      "name": "✈555影视",
       "type": 3,
-      "api": "csp_WebIV",
-      "jar": "https://gitlab.com/guot55/bh/-/raw/main/pg/lib/o.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/555影视[飞].js"
+    },
+    {
+      "key": "drpy_js_多瑙影视",
+      "name": "✈多瑙影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/多瑙影视.js"
+    },
+    {
+      "key": "drpy_js_唐人街影视[飞]",
+      "name": "✈唐人街影视",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/唐人街影视[飞].js"
+    },
+    {
+      "key": "drpy_js_欧乐影院[飞]",
+      "name": "✈欧乐影院",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/欧乐影院[飞].js"
     },
     {
       "key": "drpy_js_华乐影院",
-      "name": "起飞 | 华乐影院[js]",
+      "name": "✈华乐影院",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "spider": "./jar/pg.jar;md5;2d720579dec380af301010354f50408c",
-      "ext": "./js/华乐影院[飞].js"
+      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/华乐影院[飞].js"
     }
   ],
   "doh": [
