@@ -42,7 +42,7 @@
     {
       "key":"木耳资源站",
       "name":"木耳资源站",
-      "type":0,
+      "type":3,
       "api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
       "searchable":1,
       "quickSearch":1,
