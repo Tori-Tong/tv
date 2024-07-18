@@ -100,15 +100,6 @@
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
     },
     {
-      "key": "星星",
-      "name": "🛫星星┃海外",
-      "type": 3,
-      "api": "csp_Star",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://tv.菜妮丝.top/jar/fm0625.jar;md5;3f392906996ac13aaeb8c91956f95f7f"
-    },
-    {
       "key": "csp_xml_ikun",
       "name": "爱坤🐔蓝光",
       "type": 1,
@@ -152,25 +143,6 @@
         "欧美综艺"
       ]
     },
-    {
-      "key": "drpy_js_黑木耳资源",
-      "name": "木耳|影视",
-      "type": 3,
-      "api": "https://gitlab.com/guot55/bh/-/raw/main/pg/lib/drpy2.min.js",
-      "spider": "https://gitlab.com/guot55/bh/-/raw/main/pg/pg.jar",
-      "ext": "https://gitlab.com/guot55/bh/-/raw/main/pg/lib/mr.js"
-    },
-    {
-      "key": "csp_苹果",
-      "name": "007|影视",
-      "jar": "https://gitlab.com/guot55/bh/-/raw/main/pg/lib/XBPQ.jar",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/苹果影视.json"
-    }, 
     {
       "key": "看看影视",
       "name": "看看┃影视",
