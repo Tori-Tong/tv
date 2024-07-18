@@ -37,7 +37,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.6080yy3.com/"
+      "ext": "https://www.6080z.com/"
     },
     {
       "key": "酷看",
@@ -188,16 +188,6 @@
       "api": "./lib/drpy2.min.js",
       "spider": "./jar/pg.jar;md5;2d720579dec380af301010354f50408c",
       "ext": "./js/华乐影院[飞].js"
-    },
-    {
-      "key": "獨播",
-      "name": "獨播 | 海外",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "./lib/duboku.json$$$proxy",
-      "spider": "https://gitlab.com/duomv/duo/-/raw/main/pg.jar"
     }
   ],
   "doh": [
