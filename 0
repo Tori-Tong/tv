@@ -25,7 +25,7 @@
       "name": "⏮️低端影视",
       "type": 3,
       "api": "csp_Ddrk",
-      "click": "www.xiaoxintv.app;#vjsp > button",
+      "click": "ddys.pro;#vjsp > button",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -34,7 +34,7 @@
       "key": "drpy_js_小宝影院[飞]",
       "name": "✈小宝影院",
       "type": 3,
-      "click": "ddys.pro;#vjsp > button",
+      "click": "www.xiaoxintv.app;#vjsp > button",
       "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
       "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/小宝影院[飞].js"
     },
