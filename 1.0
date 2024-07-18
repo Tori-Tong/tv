@@ -1,314 +1,214 @@
 {
-  "spider": "http://happy.xn--z7x900a.live/jar/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
-  "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720763657384/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "drpy_js_豆瓣",
+      "key": "豆豆",
       "name": "豆瓣",
       "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "csp_DiDuan",
+      "name": "⏮️低端影视",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "click": "ddys.pro;#vjsp > button",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1",      
+      "key": "荐片",
+      "name": "🎬┃荐片┃影视",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://api2.rinhome.com"
     },
     {
       "key":"海外看资源",
-      "name":"海外看 高清无广",
+      "name":"华为资源站",
       "type":0,
-      "api":"https://vip.vipuuvip.com/?url=",
+      "api":"https://jyzyapi.com/provide/vod/at/xml/?ac=list",
       "searchable":1,
       "quickSearch":1,
       "filterable":0
     },
     {
-      "key": "比特",
-      "name": "✌️️┃比特┃影视",
+      "key": "酷看",
+      "name": "💡酷看┃秒播",
       "type": 3,
-      "api": "csp_Bttwo"
-    },
-    {
-      "key": "低端",
-      "name": "🛣┃低端┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "ext": "http://dt.xn--yety82d.love/js/ddys.js"
-    },
-    {
-      "key": "drpy_js_欧乐影院[飞]",
-      "name": "✈欧乐影院",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/欧乐影院[飞].js"
-    },
-    {
-      "key": "drpy_js_小宝影院[飞]",
-      "name": "✈小宝影院",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/小宝影院[飞].js"
-    },
-    {
-      "key": "csp_Nbys",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
+      "api": "csp_Kkys",
+      "timeout": 15,
       "searchable": 1,
-      "changeable": 1,
-      "jar": "https://github.com/Tori-Tong/tv/raw/main/jar/fm1004.jar"
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
-      "key": "哔嘀",
-      "name": "️️💦┃哔嘀┃影视",
+      "key": "云星1080",
+      "name": "☁️云星1080┃影视",
       "type": 3,
-      "api": "csp_Bdys",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": "1"
+      "spider": "./云星日记/jars/公众号云星日记0619.jar",
+      "ext": "http://cms.4u4.cn/api.php/app/"
     },
     {
-      "key": "索尼资源",
-      "name": "📀┃索尼┃影视",
+      "key": "nangua",
+      "name": "🎃┃南瓜┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "http://js.xn--z7x900a.com/js/ng_open.js",
+      "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1"
+    },
+    {
+      "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1",
+      "key": "csp_SC1080",
+      "name": "🏰┃圣城┃影视",
+      "type": 3,
+      "api": "csp_SC1080",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Bili",
+      "name": "🅱哔哔┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
+    },
+    {
+      "key": "csp_xml_ikun",
+      "name": "爱坤🐔蓝光",
       "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
       "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
         "国产剧",
+        "韩国剧",
+        "泰国剧",
         "欧美剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "泰剧",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
         "海外剧",
-        "纪录片",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
         "国产动漫",
         "日韩动漫",
         "欧美动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "犯罪片",
+        "惊悚片",
+        "古装片",
+        "灾难片",
+        "历史片",
+        "其他片",
+        "悬疑片",
+        "奇幻片",
         "动画片",
-        "港台动漫",
-        "海外动漫",
-        "演唱会",
-        "体育赛事",
-        "篮球",
-        "足球",
-        "预告片",
-        "斯诺克",
-        "影视解说"
-      ],
-      "searchable": 1,
-      "quickSearch": 1,
-      "spider": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "drpy_js_唐人街影视[飞]",
+      "name": "✈唐人街影视",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/唐人街影视[飞].js"
     }
   ],
-  "parses": [
+  "doh": [
     {
-      "name": "Json聚合",
-      "type": 3,
-      "url": "Demo"
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
     },
     {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "Web"
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
     },
     {
-      "name": "阿毛我超爱",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
     },
     {
-      "name": "阿毛最可爱",
-      "type": 1,
-      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
     }
   ],
+  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
     {
       "name": "live",
       "type": 0,
+      "url": "https://www.huichunniao.cn/xh/lib/live.txt",
       "playerType": 1,
-      "url": "http://我不是.肥猫.live/TV/tvzb.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
-  "rules": [
-    {
-      "name": "♻️非凡",
-      "hosts": [
-        "ffzy"
-      ],
-      "regex": [
-        "18.0"
-      ]
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "♻️量子",
-      "hosts": [
-        "lz"
-      ],
-      "regex": [
-        "17.2",
-        "19.84"
-      ]
+      "name": "XIUTAN",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+      "type": 0,
+      "url": "https://xhdwc.tk/xiutan.m3u"
     },
     {
-      "name": "♻️乐视",
-      "hosts": [
-        "leshiyun"
-      ],
-      "regex": [
-        "15.92"
-      ]
-    },
-    {
-      "name": "♻️优质",
-      "hosts": [
-        "yzzy"
-      ],
-      "regex": [
-        "18.66",
-        "19.52",
-        "19.13"
-      ]
-    },
-    {
-      "name": "♻️YQK",
-      "hosts": [
-        "ydd"
-      ],
-      "regex": [
-        "18.4",
-        "15.1666",
-        "16.5333"
-      ]
-    },
-    {
-      "name": "♻️快看",
-      "hosts": [
-        "kuaikan"
-      ],
-      "regex": [
-        "15.32",
-        "15.231"
-      ]
-    },
-    {
-      "name": "♻️暴风",
-      "hosts": [
-        "bf"
-      ],
-      "regex": [
-        "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
-      ]
-    },
-    {
-      "name": "农民嗅探",
-      "hosts": [
-        "toutiaovod.com"
-      ],
-      "regex": [
-        "video/tos/cn"
-      ]
-    },
-    {
-      "name": "hs",
-      "hosts": [
-        "huoshan.com"
-      ],
-      "regex": [
-        "item_id="
-      ]
-    },
-    {
-      "name": "dy",
-      "hosts": [
-        "douyin.com"
-      ],
-      "regex": [
-        "is_play_url="
-      ]
-    },
-    {
-      "name": "cl",
-      "hosts": [
-        "magnet"
-      ],
-      "regex": [
-        "最 新",
-        "直 播",
-        "更 新"
-      ]
+      "name": "IPV6",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "playerType": 1
     }
   ]
 }
