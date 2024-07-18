@@ -15,7 +15,7 @@
       "key":"海外看资源",
       "name":"金鹰",
       "type":0,
-      "api":"https://cjhwba.com/api.php/provide/vod/at/xml/?ac=list",
+      "api":"https://jyzyapi.com/provide/vod/from/jinyingyun/at/xml/",
       "searchable":1,
       "quickSearch":1,
       "filterable":0
