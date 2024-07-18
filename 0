@@ -15,7 +15,7 @@
       "key":"海外看资源",
       "name":"金鹰",
       "type":0,
-      "api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+      "api":"https://www.heimuer.tv/help/api.html",
       "searchable":1,
       "quickSearch":1,
       "filterable":0
