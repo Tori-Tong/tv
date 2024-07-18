@@ -27,6 +27,7 @@
       "api": "csp_Jianpian",
       "type": 3,
       "playerType": "2",
+      "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1",
       "ext": "http://api2.rinhome.com"
     },
     {
@@ -74,10 +75,10 @@
       "name": "🏰┃圣城┃影视",
       "type": 3,
       "api": "csp_SC1080",
+      "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1"
+      "filterable": 1
     },
     {
       "key": "Bili",
