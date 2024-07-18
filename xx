@@ -25,7 +25,7 @@
       "key": "drpy_js_小宝影院[飞]",
       "name": "✈小宝影院",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/drpy.min.js",
+      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
       "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/小宝影院[飞].js"
     },
     {
@@ -70,20 +70,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "神仙影视",
-      "name": "影视 | 神仙自营",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "spider": "./sx.jar;md5;0840fd78292d4a87dfa48dbebd3e6466",
-      "ext": {
-        "分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
-      }
     },
     {
       "key": "Bili",
@@ -147,7 +133,7 @@
       "key": "drpy_js_555影视[飞]",
       "name": "✈555影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/drpy.min.js",
+      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
       "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/555影视[飞].js"
     },
     {
@@ -161,21 +147,21 @@
       "key": "drpy_js_唐人街影视[飞]",
       "name": "✈唐人街影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/drpy.min.js",
+      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
       "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/唐人街影视[飞].js"
     },
     {
       "key": "drpy_js_欧乐影院[飞]",
       "name": "✈欧乐影院",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/drpy.min.js",
+      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
       "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/欧乐影院[飞].js"
     },
     {
       "key": "drpy_js_华乐影院",
       "name": "✈华乐影院",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/drpy.min.js",
+      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
       "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/华乐影院[飞].js"
     }
   ],
