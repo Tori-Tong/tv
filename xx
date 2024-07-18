@@ -22,12 +22,12 @@
       "filterable": 0
     },
     {
+      "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1",      
       "key": "荐片",
       "name": "🎬┃荐片┃影视",
       "api": "csp_Jianpian",
       "type": 3,
       "playerType": "2",
-      "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1",
       "ext": "http://api2.rinhome.com"
     },
     {
@@ -71,11 +71,11 @@
       "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1"
     },
     {
+      "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1",
       "key": "csp_SC1080",
       "name": "🏰┃圣城┃影视",
       "type": 3,
       "api": "csp_SC1080",
-      "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
