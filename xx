@@ -31,7 +31,7 @@
       "ext": "http://api2.rinhome.com"
     },
     {
-      "key":"海外看资源",
+      "key":"hw资源站",
       "name":"hw资源站",
       "type":0,
       "api":"https://cjhwba.com/api.php/provide/vod/at/xml/?ac=list",
@@ -40,7 +40,7 @@
       "filterable":0
     },
     {
-      "key":"海外看资源",
+      "key":"木耳资源站",
       "name":"木耳资源站",
       "type":0,
       "api":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
