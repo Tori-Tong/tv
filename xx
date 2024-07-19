@@ -22,13 +22,13 @@
       "filterable": 0
     },
     {
-      "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1",      
-      "key": "荐片",
-      "name": "🎬┃荐片┃影视",
-      "api": "csp_Jianpian",
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
       "type": 3,
-      "playerType": "2",
-      "ext": "http://api2.rinhome.com"
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key":"hw资源站",
@@ -79,22 +79,25 @@
       "ext": "http://cms.4u4.cn/api.php/app/"
     },
     {
-      "key": "nangua",
-      "name": "🎃┃南瓜┃影视",
+      "key": "南瓜",
+      "name": "🎃南瓜┃多线",
       "type": 3,
-      "playerType": "2",
-      "api": "http://js.xn--z7x900a.com/js/ng_open.js",
-      "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1"
-    },
-    {
-      "spider": "https://like.xn--z7x900a.com/jar/PandaQ240718.jar;md5;c055fe55449cac6eb7d7ce2286e507d1",
-      "key": "csp_SC1080",
-      "name": "🏰┃圣城┃影视",
-      "type": 3,
-      "api": "csp_SC1080",
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
+    },
+    {
+      "key": "新6V",
+      "name": "🧲新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
     },
     {
       "key": "Bili",
