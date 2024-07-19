@@ -12,10 +12,10 @@
       "filterable": 0
     },
     {
-      "key":"海外看资源",
-      "name":"金鹰",
+      "key":"ikun",
+      "name":"爱坤",
       "type":0,
-      "api":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
+      "api":"https://ikunzyapi.com/api.php/provide/vod/at/xml?ac=list",
       "searchable":1,
       "quickSearch":1,
       "filterable":0
