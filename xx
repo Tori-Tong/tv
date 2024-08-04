@@ -76,7 +76,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "spider": "./云星日记/jars/公众号云星日记0619.jar",
+      "spider": "./云星日记/jars/公众号云星日记0725.jar",
       "ext": "http://cms.4u4.cn/api.php/app/"
     },
     {
