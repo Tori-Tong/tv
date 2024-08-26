@@ -110,16 +110,16 @@
       "ext": "https://www.xb6v.com/"
     },
     {
-      "key":"csp_Ikanbot",
-      "name": "👾Ikanbot",
+      "key": "️爱看Bot",
+      "name": "⛅️爱看Bot┃直连",
       "type": 3,
       "api": "csp_Ikanbot",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./lib/ttkx.jar",
-      "ext":"https://v.aikanbot.com"
-     },
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724596283762/okjpg.txt;md5;e9a58d736895c7a759ac301fb02f5dea",
+      "timeout": 10
+    },
     {
       "key":"guangsu",
       "name":"光速 无法搜索",
