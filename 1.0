@@ -76,7 +76,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "spider": "./云星日记/jars/公众号云星日记0725.jar",
+      "jar": "./云星日记/jars/公众号云星日记0725.jar",
       "ext": "http://cms.4u4.cn/api.php/app/"
     },
     {
@@ -138,6 +138,7 @@
       "type": 3,
       "api": "csp_Wexyuyueys",
       "searchable": 1,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724601406964/wex.txt;md5;5907b996eba16b0a76f50980a2b6bf44",
       "changeable": 1
     },
     {
@@ -146,6 +147,7 @@
       "type": 3,
       "api": "csp_WexNmys",
       "searchable": 1,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724601406964/wex.txt;md5;5907b996eba16b0a76f50980a2b6bf44",
       "changeable": 1
     },
     {
@@ -154,6 +156,7 @@
       "type": 3,
       "api": "csp_Wexshandian",
       "searchable": 1,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724601406964/wex.txt;md5;5907b996eba16b0a76f50980a2b6bf44",
       "changeable": 1
     },
     {
