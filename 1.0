@@ -40,25 +40,6 @@
       "filterable":0
     },
     {
-      "key":"木耳资源站",
-      "name":"木耳资源站",
-      "type":0,
-      "api":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0
-    },
-    {
-      "key": "酷看",
-      "name": "💡酷看┃秒播",
-      "type": 3,
-      "api": "csp_Kkys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "文采",
       "name": "💮文采",
       "type": 3,
@@ -129,16 +110,15 @@
       "ext": "https://www.xb6v.com/"
     },
     {
-      "key": "贱贱",
-      "name": "🐭贱贱┃P2P",
+      "key":"csp_Ikanbot",
+      "name": "👾Ikanbot",
       "type": 3,
+      "api": "csp_Ikanbot",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
-    },
+      "filterable": 1,
+      "ext":"https://v.aikanbot.com"
+     },
     {
       "key":"guangsu",
       "name":"光速 无法搜索",
