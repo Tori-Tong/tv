@@ -117,7 +117,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./lib/ttkx.jar", 
+      "jar":"./lib/ttkx.jar",
       "ext":"https://v.aikanbot.com"
      },
     {
