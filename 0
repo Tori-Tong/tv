@@ -27,7 +27,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
+      "jar":"./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
       "ext": "http://z.kzjtv.com/"
     },
     {
@@ -38,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d"
+      "jar":"./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d"
     },
     {
       "key": "天天影视",
@@ -48,7 +48,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d"
+      "jar":"./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d"
     },
     {
       "key": "采集之王",
@@ -57,23 +57,23 @@
       "api": "./JS/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
-      "ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"
+      "jar":"./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
+      "ext":"./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"
     },
     {
       "key": "立播影视",
       "name": "立播｜影视",
       "type": 3,
       "api": "csp_Libvio",
-      "searchable": 1,
-      "filterable": 1,
+      "searchable":1,
+      "filterable":1,
       "changeable": 1,
-      "jar": "./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
+      "jar":"./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "https://libvio.link"
+        "token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site":"https://libvio.link"
       }
     },
     {
@@ -81,10 +81,10 @@
       "name": "低端｜影视",
       "type": 3,
       "api": "csp_Ddys",
-      "searchable": 1,
+      "searchable":1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d"
+      "jar":"./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d"
     },
     {
       "key": "苹果",
