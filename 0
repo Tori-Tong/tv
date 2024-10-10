@@ -1,7 +1,6 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724591087642/fan.txt;md5;5f4edf28f8ec1b165b962e9888dc497c",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "sites": [
     {
       "key": "豆豆",
       "name": "豆瓣",
@@ -12,14 +11,80 @@
       "filterable": 0
     },
     {
-      "key": "csp_DiDuan",
-      "name": "⏮️低端影视",
+      "key":"heimuer",
+      "name":"黑木耳无法搜索但很快",
+      "type":0,
+      "api":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
+    },
+    {
+      "key": "追剧影视",
+      "name": "追剧｜APP",
       "type": 3,
-      "api": "csp_Ddrk",
-      "click": "ddys.pro;#vjsp > button",
+      "api": "csp_AppZJ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1,
+      "jar": "./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
+      "ext": "http://z.kzjtv.com/"
+    },
+    {
+      "key": "大米星球",
+      "name": "大米｜APP",
+      "type": 3,
+      "api": "csp_AppDaMi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d"
+    },
+    {
+      "key": "天天影视",
+      "name": "天天｜APP",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d"
+    },
+    {
+      "key": "采集之王",
+      "name": "采集｜合集",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
+      "ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"
+    },
+    {
+      "key": "立播影视",
+      "name": "立播｜影视",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar": "./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://libvio.link"
+      }
+    },
+    {
+      "key": "低端影视",
+      "name": "低端｜影视",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./spider.jar;md5;eb7676582d076a5505be5f23530e4f4d"
     },
     {
       "key": "苹果",
@@ -39,24 +104,6 @@
       "quickSearch":1,
       "filterable":0
     },
-    {
-      "key":"heimuer96",
-      "name":"黑木耳7",
-      "type":0,
-      "api":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0
-    },
-{"key": "黑木耳",
-"name": "🪨黑木耳",
-"type": 1,
-"api": "https://xml.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
-"playUrl": "https://player.heimuer.tv/index.html?url=",
-"searchable": 1,
-"changeable": 1,
-"categories": ["剧情", "动作", "冒险", "同性", "喜剧", "奇幻", "恐怖", "悬疑", "惊悚", "灾难", "爱情", "犯罪", "科幻", "动画电影", "歌舞", "战争", "经典", "网络电影", "国产剧", "港剧", "韩剧", "日剧", "泰剧", "台剧", "欧美剧", "新马剧", "其他剧", "国产综艺", "港台综艺", "韩国综艺", "日本综艺", "欧美综艺", "新马泰综艺", "其他综艺", "欧美", "日本", "韩国", "国产", "港台", "古装", "虐恋", "逆袭", "悬疑", "神豪", "重生", "复仇", "穿越", "甜宠", "强者"]
-},
     {
       "key": "文采",
       "name": "💮文采",
@@ -107,36 +154,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "Wexyuyueys",
-      "name": "💥雨落┃影视💥",
-      "type": 3,
-      "api": "csp_Wexyuyueys",
-      "searchable": 1,
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724601406964/wex.txt;md5;5907b996eba16b0a76f50980a2b6bf44",
-      "changeable": 1
-    },
-    {
-      "key": "新6V",
-      "name": "🧲新6V┃磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.xb6v.com/"
-    },
-    {
-      "key": "️爱看Bot",
-      "name": "⛅️爱看Bot┃直连",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724596283762/okjpg.txt;md5;e9a58d736895c7a759ac301fb02f5dea",
-      "timeout": 10
     },
     {
       "key":"guangsu",
@@ -204,13 +221,6 @@
         "动画片",
         "欧美综艺"
       ]
-    },
-    {
-      "key": "drpy_js_唐人街影视[飞]",
-      "name": "✈唐人街影视",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-      "ext": "https://raw.githubusercontent.com/Tori-Tong/tv/main/js/唐人街影视[飞].js"
     }
   ],
   "parses": [
